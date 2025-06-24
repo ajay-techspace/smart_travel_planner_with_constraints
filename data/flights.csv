@@ -1,0 +1,7 @@
+src,dst,dep_time,arr_time,cost
+Delhi,Mumbai,06:00,08:00,3000
+Mumbai,Bangalore,09:30,11:30,2500
+Delhi,Bangalore,07:00,10:30,4000
+Bangalore,Chennai,12:30,14:00,1500
+Mumbai,Chennai,12:00,13:30,2000
+Chennai,Delhi,15:30,17:30,3500
