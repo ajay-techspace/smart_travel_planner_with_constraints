@@ -22,7 +22,6 @@ A graph-based route planning system that simulates multi-city travel across flig
 - 🔧 **Modular Codebase**
   - Separated logic for graph building, route planning, and constraint checks
 
----
 
 ## ⚙️ How to Run
 
@@ -35,6 +34,8 @@ cd smart_travel_planner_with_constraints/src
 
 # Run the planner
 python main.py
+```
+
 
 ## License
 
